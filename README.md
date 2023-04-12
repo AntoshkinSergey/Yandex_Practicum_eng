@@ -3,6 +3,7 @@ My learning Yandex Practicum projects
 
 Repository of educational projects in the specialty "Data Analyst"
 
+
 | Project name | Description | Используемые библиотеки | Libraries used
 | :---------------------- | :---------------------- | :---------------------- |
 | [Analysis of two mobile communication tariffs of a cellular operator](Mobile_tariff_analysis) | To adjust the advertising budget of two mobile operator tariffs, it is necessary to evaluate which tariff brings more money. Check statistical hypotheses about the equality of the average revenue of the two presented tariffs and the average revenue from customers living in Moscow and customers from other regions.| *pandas, seaborn, matplotlib, scipy* |
